@@ -1,10 +1,10 @@
-Exam 1 Study Guide (Written Exam)
+Exam 1 Study Guide (Concepts Exam)
 ---------------------------------
-- The written exam will be open-book, open-notes. (This means access to the zyBook and class websites are permitted.  Access to your own written or printed notes are permitted.  Going offsite to websites like StackOverflow are not permitted.)
+- The concepts exam will be open-book, open-notes. (This means access to the zyBook and class websites are permitted.  Access to your own written or printed notes are permitted.  Going offsite to websites like StackOverflow are not permitted.)
 
-- The computers in SAB 102 do not have IDLE or Python installed.  You will not be able to actively type in Python code.
+- You will not be able to actively type in Python code to run it to see how it works. You must be able to read code and tell me what it does on the test.
 
-- The exam will be TIMED TO 45 MINUTES during the Wednesday class period.  In the past, most people finish in a half hour.
+- The exam will be TIMED TO 45 MINUTES during the class period.  In the past, most people finish in a half hour.
 
 - If you cannot attend in person, please send me an email.
 
